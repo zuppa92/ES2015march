@@ -1,0 +1,19 @@
+let and const Exercise:*******
+
+// let PI = 3.14
+// const PI = 42
+
+Differnce between var and let?
+Can reassign and declare again with var keyword, but cannot redeclare using the let keyword.
+You can access a hoisted variable with var keyword. Let creates block scope. Don't use var as much present day.
+
+Differnece between var and const?
+Can reassign and redeclare with var keyword, but you can not redeclare or reassign using the const keyword. You can access a hoisted variable with var keyword.
+Const creates block scope.
+
+Difference between let and const?
+You can reassign with let keyword, but you can not redeclare or reassign using the const keyword.
+
+What is hoisting?
+Hoisting is the way that we explain how the JS compiler works. Variables are "lifting" or “hoisted” to the top of the scope they are declared in. 
+When using var keyword, you can access the variable name and it’s undefined value before it is used later on.
